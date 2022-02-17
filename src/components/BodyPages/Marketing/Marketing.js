@@ -36,6 +36,7 @@ const Marketing = () => {
             <img src={picture4} alt="" />
           </Typography>
           <Typography
+          className='frontStyle'
             textAlign="right"
             variant="p"
             component="div"

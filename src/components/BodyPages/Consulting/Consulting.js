@@ -19,7 +19,7 @@ const Consulting = () => {
             >
               Consulting
             </Typography>
-            <Typography variant="p" component="div" sx={{ color: "#000000" }}>
+            <Typography className='frontStyle' variant="p" component="div" sx={{ color: "#000000", fontSize: '18px' }}>
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente
               labore quae nihil reprehenderit maiores expedita ratione dolor,
               quos doloremque laudantium atque. Eaque voluptatibus corporis

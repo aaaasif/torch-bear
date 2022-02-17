@@ -15,7 +15,7 @@ const BannerText = () => {
             top: "200px",
           }}
         >
-          The most valuable player <br /> is the one who makes the <br />
+          <span className='frontStyle'> The most valuable player <br /> is the one who makes the <br /> </span>
           <span style={{ color: "#FF0000" }}>most players valuable.</span>
         </Typography>
       </Container>

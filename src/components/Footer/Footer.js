@@ -40,11 +40,11 @@ const Footer = () => {
               </Grid>
               <Grid item xs={12} md={12} sm={12} lg={4} xl={4}>
                 <Item>
-                  <Typography textAlign="left" color="#ffffff">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Consequuntur, inventore. Natus velit voluptatem expedita
-                    provident at sequi, incidunt dolore quaerat quae itaque,
-                    obcaecati praesentium blanditiis.
+                  <Typography className='frontStyle' textAlign="left" color="#ffffff">
+                  Lorem sit amet, consectetur adipiscing <br/>
+                  Ipsum sit amet, consectetur <br/>
+                  Dolor adipiscing elit <br/>
+                  Sed do eiusmod
                   </Typography>
                 </Item>
               </Grid>

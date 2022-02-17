@@ -34,7 +34,7 @@ const Podiatry = () => {
           >
             <img src={Picture2} alt="" />
           </Typography>
-          <Typography textAlign="right" variant="p" component="div" sx={{ color: "#ffffff" }}>
+          <Typography className='frontStyle' textAlign="right" variant="p" component="div" sx={{ color: "#ffffff" }}>
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente
             labore quae nihil reprehenderit maiores expedita ratione dolor, quos
             doloremque laudantium atque. Eaque voluptatibus corporis laboriosam,
